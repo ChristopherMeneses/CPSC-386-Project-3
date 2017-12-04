@@ -1,5 +1,5 @@
 #Project 3 - CPSC 386 - MW 5:30 PM
-#AMMU - Danial Moahmmad, Felicia Aubert, Annette Ulrichsen, Christopher Menesis
+#AMMU - Danial Moahmmad, Felicia Aubert, Annette Ulrichsen, Christopher Meneses
 #Platformer - goal is to find the princess
 #Sources: Anthony Biron - https://www.youtube.com/channel/UCy0eKoY5BVtcJHFQGKVe1yg
 #ChiliGames - Knight images - https://opengameart.org/content/knight-and-knight-animation
